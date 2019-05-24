@@ -1,6 +1,2 @@
 hello git
-second commit
- 3 modify
-1
-2
-3
+Hello Github
